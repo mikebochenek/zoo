@@ -1,7 +1,5 @@
 package zoo.mb.crypto1;
 
-import javax.xml.bind.annotation.adapters.HexBinaryAdapter;
-
 /**
  * Week 1 – Programming Assignment [optional: extra credit] 
  * 
